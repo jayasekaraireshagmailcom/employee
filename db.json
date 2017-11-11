@@ -1,0 +1,8 @@
+{
+  "employees": [
+    { "code": "emp101", "name": "Tom","gender":"Male","annualSalary":"55000","dateOfBirth":"6/25/2017" },
+    { "code": "emp102", "name": "Suiman","gender":"Male","annualSalary":"75000","dateOfBirth":"6/24/2017" },
+    { "code": "emp103", "name": "Ann","gender":"Female","annualSalary":"155000","dateOfBirth":"6/23/2017" },
+    { "code": "emp105", "name": "Ann","gender":"Female","annualSalary":"155000","dateOfBirth":"6/23/2017" }
+  ]
+}
