@@ -1,0 +1,38 @@
+<?ArrayOfEmployee xmlns:i="http://www.w3.org/2017/XMLSchema-instance" xmlns="http://schmas.datacontract.org/2004/07/EmployeeWebAPIService" xml version="1.0" encoding="UTF-8"?>
+<root>
+   <Employee>
+   <code>emp101</code>
+   <name>Tom</name>
+   <gender>Male</gender>
+   <annualSalary>55000</annualSalary>
+   <dateOfBirth>6/25/2017</dateOfBirth>    
+</Employee>
+<Employee>
+   <code>emp102</code>
+   <name>Alex</name>
+   <gender>Male</gender>
+   <annualSalary>59000</annualSalary>
+   <dateOfBirth>6/10/2017</dateOfBirth>    
+</Employee>
+<Employee>
+   <code>emp103</code>
+   <name>Mike</name>
+   <gender>Female</gender>
+   <annualSalary>7700.481</annualSalary>
+   <dateOfBirth>6/06/2017</dateOfBirth>    
+</Employee>
+<Employee>
+   <code>emp104</code>
+   <name>Nancy</name>
+   <gender>Male</gender>
+   <annualSalary>800.481</annualSalary>
+   <dateOfBirth>5/30/2017</dateOfBirth>    
+</Employee>
+<Employee>
+   <code>emp105</code>
+   <name>Dick</name>
+   <gender>Female</gender>
+   <annualSalary>5900</annualSalary>
+   <dateOfBirth>4/14/2017</dateOfBirth>    
+</Employee>
+</root>
