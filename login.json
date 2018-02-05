@@ -1,0 +1,6 @@
+{
+  "logindetails": [
+    { "username": "dilini@rentacar.com", "password": "Tom","annualsalary":"55000" },
+    { "username": "admin@rentacar.com", "password": "admin","annualsalary":"100000" }
+  ]
+}
